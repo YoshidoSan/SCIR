@@ -1,5 +1,5 @@
-const char* ssid = "UPC2A36399";
-const char* password = "BGeukjdy3kvy";
+const char* ssid = "";
+const char* password = "";
 
 const char* mqttServer = "mqtt3.thingspeak.com";
 const int mqttPort = 1883; // Port MQTT dla ThingSpeak
